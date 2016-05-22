@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\avramescu cristian\documents\visual studio 2015\projects\test\test\source.cpp(63): warning C4101: 'j': unreferenced local variable
+c:\users\avramescu cristian\documents\visual studio 2015\projects\test\test\source.cpp(63): warning C4101: 'i': unreferenced local variable
+  Test.vcxproj -> c:\users\avramescu cristian\documents\visual studio 2015\Projects\Test\Debug\Test.exe
